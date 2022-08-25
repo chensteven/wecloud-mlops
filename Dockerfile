@@ -1,7 +1,7 @@
 FROM python:3.7.8
 
 # 
-WORKDIR /code
+WORKDIR /app
 
 # 
 COPY ./requirements.txt /code/requirements.txt
@@ -10,7 +10,15 @@ COPY ./requirements.txt /code/requirements.txt
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 
 # 
-COPY ./app /code/app
+COPY ./app /app
 
-# 
-CMD ["uvicorn", "app.serve:app", "--host", "0.0.0.0", "--port", "80"]
+#
+RUN ls -lah /app/*
+
+#
+COPY ./start.sh /start.sh
+RUN chmod +x /start.sh
+
+#
+EXPOSE 80
+CMD ["/start.sh"]

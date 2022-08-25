@@ -1,0 +1,245 @@
+title,label
+Best Books and Videos on Sales,['books']
+Books with high signal to noise ratio from Hacker News,['books']
+How to Read Math,['mathematics']
+Why most supplements fail,
+Computational Intelligence,['theory']
+Best Paper Awards in Computer Science since 1996,['papers']
+Deep Learning Summer School 2015 at Montreal,"['deep learning', 'course']"
+Resource on Cell Biology and Genetic,['resource']
+College Math Notes,"['mathematics', 'notes']"
+How to read scientific article,['how-to']
+Building Recommender System in Python Using Stochastic Gradient Descent,"['recommendation system', 'python']"
+UX Design Deliverables,['ux']
+Example: FE Development Portfolio,['web development']
+How to use data to monitor the job market,"['application', 'data science']"
+100 Days of Swift,['mobile development']
+Guide to SQL Thinking,"['sql', 'guide']"
+Android Tutorials,"['mobile development', 'tutorial']"
+Good math visualizations,"['mathematics', visualization']"
+Definitive Guide to Form Based Web Authentication,['web development']
+Google's Technical Skills Checklist,['career']
+How to wireframe,['ux']
+GAMF Interview Questions for UX Researchers,['interview']
+Who is Hiring,['hiring']
+Recommendation Engine from Spotify,"['recommendation system', 'python']"
+How to learn advanced math,"['mathematics', 'how-to']"
+Sick Interface: Launchaco,
+Sick Interface: Kilokilo,
+Drawing of how ketosis work,
+Text Feature Extraction,['nlp']
+How web fonts work?,['web development']
+An overview of gradient descent optimization algorithms,"['machine learning', 'algorithms']"
+PCA Step by Step in Python,"['algorithms', 'python']"
+Woodworking for Beginners,['guide']
+Computer Science Bottom Up,"['computer science', 'course']"
+Statistical Concepts Visualization,"['statistics', 'visualization']"
+Compendium of Conjugate Priors,['mathematics']
+Practical Deep Learning,['deep learning']
+AWS Spot Instances,
+Gaussian correlation inequality (GCI),['mathematics']
+Gradient Descents,"['mathematics', 'machine learning']"
+Arxiv Sanity,['papers']
+L1 vs L2 Regularization,['machine learning']
+Batch Norm Backpropagation,"['neural network', 'deep learning']"
+Build a Modern Computer from First Principles: Nand to Tetris Part II ,['computer science']
+When not to use deep learning,['deep learning']
+Penetration Testing for Web Apps,['web development']
+Documenting Python Code,"['python', 'best practice']"
+Decentralized Application from MIT,
+Readings in Database Systems,
+Every byte of a TLS connection explained and reproduced,['computer science']
+Computer Networking,['computer science']
+Art & Spirit in Mathematics: The Lessons of Japanese Temple Geometry,['mathematics']
+Linux Screen Tutorial,
+Lapa Ninja - Web design inspiration,
+Kalman Filter Explained,['algorithm']
+How to simulate a CPU,
+WebGL Fluid Simulation,
+Understanding Gaussian Process,['mathematics']
+Depth of Field,
+Data oriented design,
+Notes on Large Scale Adversarial Learning,['machine learning']
+Math in Machine Learning,"['machine learning', 'mathematics']"
+How to build a good software,['software']
+Deep Learning Illustrated: Building Natural Language Processing Models,['deep learning']
+Progressive Face Super Resolution (2019 SOTA),['computer vision']
+Building a machine reading comprehension system using the latest advances in deep learning for NLP,"['nlp', 'machine learning']"
+test post,
+Automated Wealth Management,
+A Story About Silk Road,
+Open Source Software for Machine Learning,['machine learning']
+Finding the Right Color Palettes for Data Visualizations,['data visualization']
+About Brains,
+In-Depth Machine Learning Tutorials,"['machine learning', 'tutorial']"
+How to Build a BitTorrent Client in C#,
+Gauss-Markov Theorem explanation,['mathematics']
+A Beginner's Guide to Convolutional Neural Networks,"['computer vision', 'neural network']"
+Problems in undergrad lectures in differential equations ,['mathematics']
+Deep Learning and Regression by Andrew Ng,"['deep learning', 'course']"
+Product Pages UX,
+Process of Buzzfeed Design,
+Learn Japanese Book,
+Books for Physics and Math,"['mathematics', 'books']"
+Fourier Transform and Applications from Stanford,"['mathematics', 'course']"
+Investing for Geeks,
+What is text encoding?,
+Roadmap for reading deep learning papers,"['deep learning', 'guide']"
+A3 Custom Build ,
+Introduction to Neuroscience,
+How Browser Works,['computer science']
+Primer on Signal Processing,['computer science']
+Algorithms,['algorithm']
+Python Interpreter Written in Python,"['python', 'computer science']"
+CPython Internals,"['python', 'computer science']"
+How to monetize apps,
+PostgreSQL vs MS SQL ,['sql']
+Computer Speed in Python,['python']
+How to learn Latex,
+LSTM explanation,"['deep learning', 'neural network']"
+PC for Deep Learning,
+What maths are critical to pursuing ML/AI?,"['ai', 'machine learning', 'mathematics']"
+Full text search with Django and Postgres,"['machine learning', 'application']"
+Car Hacker's Handbook,
+How Shazam Works,['application']
+How to visualize a decision tree,"['algorithm', 'data science', 'machine learning', 'visualization']"
+Understanding Convolution in Deep Learning,"['neural network', 'deep learning']"
+Model-based Machine Learning Book,"['machine learning', 'book']"
+Graphical Introduction to Dynamic Programming,['programming']
+ML Whiz,['machine learning']
+Linux Applications Performance,
+Illustrated GPT2,"['neural network', 'deep learning']"
+Apple BLE,
+OS Dev,
+Kubernetes Academy,"['computer science', 'mlops']"
+Introduction to Fourier Transform,
+Image Licensing for Instagram,
+How to write good documentation,"['career', 'how-to']"
+Learn Docker,['mlops']
+Beginning's Guide to Linkers,
+State of ML Frameworks 2019,['machine learning']
+Introduction to real-time subsurface scattering,
+"Books on behavioral econ, bonds, interest rates, risk, derivatives, trading",
+Saudi Arabia - no water; world's 6 largest wheat exporter now has to import all its food,
+Website for PDF Textbooks,
+Artificial Intelligence Textbook from a UBC Prof,"['ai', 'book']"
+Wikipedia for Scholars,
+Critical Factors for Success in the 21st Century,
+"Statistics, Data Visualization and Data Science","['statistics', 'data visualization', 'data science']"
+How the world has changed in 5 years,
+Internship Guide in the Bay Area,"['career', 'guide']"
+Machine Learning Algorithm,"['machine learning', 'algorithms']"
+Neuroanatomy of Real Brains,
+Expert Curated Guide to CS Research,"['research', 'computer science']"
+K-Nearest Neighbours (KNN) from scratch,['algorithm']
+Building Gyroscope,
+RNN-LSTM in Tensor Flow,"['deep learning', 'neural network']"
+Mathematical Proof Textbook,"['mathematics', 'books']"
+Deep Reinforcement Learning ,['deep learning']
+RL,['reinforcement learning']
+How to approach machine learning problems,"['machine learning', 'how-to']"
+On the cruelty of really teaching computing science,"['computer science', 'rant']"
+Cognitive Science Readings for Designers,['papers']
+Wireframe best practices,['web development']
+What great listeners do,['career']
+Cucumber Farmer using ML,
+Learn Nuclear Energy,
+Facebook Computer Vision,['computer science']
+Portfolio: Benoit,
+Books for Economics,
+How Convolutional Neural Networks Work,"['machine learning', 'algorithms']"
+How to make dashi stock?,
+How to use t-SNE,"['machine learning', 'algorithms']"
+TF-IDF and Cosine Similarity,"['machine learning', 'algorithms']"
+Basics of Electricity,
+DSLR Autofocus Testing Guide,
+Camera Comparison,
+Philosophy of AI,['ai']
+Geometric Algebra,['mathematics']
+Problem Solving with Algorithms and Data Structures using Python,"['python', 'computer science', 'algorithms']"
+Computer Language Benchmark,
+Learn SQL Index,"['sql', 'guide']"
+Measure CPU Performance,
+Explorable Explanation,
+Building a NAS,
+Visualizing PCA,"['visualization', 'algorithms']"
+Short guide to Getting Things Done (GTD),['career']
+Home Networking,
+How profilers work,
+How Git works internally,['computer science']
+Munro breaks down cars for analysis,
+USA Today Redesign,
+Immune cell diet,
+Design and Implementation of Column DB,
+Distributed Architectures,
+How to Read 100s of Millions of Records per Second from a Single Disk,['computer science']
+Amazon shareholder letters from Jeff Bezos,
+How to read a schematic,
+Complete Guide to Deep Work,"['career', 'guide]"
+Understanding awk to search files and texts,
+Building a live streaming app with Nodejs and React,['web development']
+Growth framework for engineers from Square,
+History/Overview of Silk Road: The world's largest online drug market,
+Trigonometry Basics,['mathematics']
+Real Time Voice Cloning,
+Deep Reinforcement Learning ,['deep learning']
+Elliptic Curve Cryptography Explained,
+Career Advice from Mathematician Terry Tao,['mathematics']
+How Relational Databases Work,['computer science']
+Stanford Encyclopedia,
+Brain to Brain Communication,
+A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings,['nlp']
+Einstein Was No Lone Genius,
+How to make Miso Ramen,
+Convolution Deep Learning Explained,"['deep learning', 'neural network']"
+RL talks from Machine Learning Summer School 2015 at UA,"['reinforcement learning', 'course]"
+Math Visually Explained,['mathematics']
+Neuroanatomy and Neurovasculature ,
+"Best Paper Awards in CS, ML, and AI","['ai', 'machine learning', 'computer science', 'paper']"
+How to make your own tagging system from scratch,
+What is spectral analysis,['mathematics']
+Professional Software Development Book,
+David Silver's Lecture to Reinforcement Learning,"['reinforcement learning', 'course]"
+Andrej Karpathy's post on Reinforcement Learning,"['reinforcement learning', 'course]"
+Academic Torrents for Data,
+Financial Planning Simulation,
+List of Autonomous System Numbers,
+Portfolio: Tom Chung,
+I am Steven #1 Fan,
+Portfolio: Daniel Wolf,
+Fundamental Physiology and Anatomy of the Digestive System,
+Building blocks of Japanese Cuisine,
+Printing a book of chat history,
+The Scientist and Engineer's Guide to Digital Signal Processing,
+CS Rankings,
+Image Kernals,
+Neural Language Modeling,
+Text Classification in Machine Learning,"['tutorial', 'machine learning', 'nlp']"
+Fast AI Machine Learning Course,"['machine learning', 'course']"
+Signal Processing on Databases,
+CSC2523 Deep Learning in Computer Vision from UofT,"['computer vision', 'neural network']"
+Computer Networking,
+Adventures of putting 16 GB of ram in an unsupported motherboard,
+Calltoidea - UI Inspiration,
+Notes on AI Bias,
+JPEG,
+Founder Books,
+Build a Pi Router,
+Operating a high scale distributed system from Uber engineer,
+How to interpolate images,
+State of Transfer Learning in NLP (August 2019),
+Face Aging using Keras,
+How to return to flow,
+Introduction to speech synthesis with deep learning,
+Web graphics done right,
+Word2Vec Skip The Gram Tutorial,"['nlp', 'machine learning']"
+150 successful machine learning models: 6 lessons learned at Booking.com,"['machine learning', 'application']"
+OWASP,
+Elements of Euclid,
+Introduction to Adversarial Machine Learning,['machine learning']
+Woob: interact with the web outside of browsers,
+The Kalman Filter. Helping Chickens Cross the Road.,
+Interactive Latency,
+A framework for decision making,
+The Craft of Writing Effectively,['career']
+Use Dalle 2 to generate logo,"['deep learning', 'application']"

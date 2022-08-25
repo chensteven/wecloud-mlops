@@ -1,0 +1,334 @@
+title,label
+Four Steps To Turn Big Data Into Action,['big data']
+9 Amazing Ways Big Data Is Used Today to Change the World,['big data']
+"Data Science and Moneyball: A Profile of Pete Skomoroch, Principal Data Scientist at LinkedIn",['data science']
+"Stanford Algorithm Analyzes Sentence Sentiment, Advances Machine Learning",['machine learning']
+Machine Learning for Relevance and Serendipity,['machine learning']
+How Python became the Language of Choice for Data Science,"['python', 'data science']"
+Neuroscientists Develop 5D Data Visualization Technique,['data visualization']
+Visual Image Extraction: Parham Aarabi Interview - ModiFace CEO & University of Toronto Professor,['computer vision']
+Five Stages of Data Grief,['data']
+"Interview with Data Scientist and Top Kaggler, Mr. Steve Donoho",['interview']
+Big Data - Real and Practical Use Cases,"['big data', 'use cases']"
+Machine Learning via Large Scale Brain Simulations,['machine learning']
+"In The Hospital Of The Future, Big Data Is One Of Your Doctors","['big data', 'healthcare']"
+Foursquare: How We Built Our Model Training Engine,['engineering']
+"At MailChimp, Data Science Works Behind The Scenes",['data science']
+Kayak Uses Big Data To Predict The Best Day To Book Your Travel Journey,['big data']
+Six Interview Vignettes for Data Scientists,['interview']
+"Junior Data Scientist, zulily",['data science']
+Weather Forecasting With Twitter & Pandas,['forecasting']
+A Neural Network Application: Predicting the Stock Market,"['neural network', 'deep learning']"
+Data Story: John Foreman Of MailChimp On The Data Science Behind Emails,['use case']
+Self-Study Guide To Machine Learning,['guide']
+Teaching A Computer To Read: NLP Hacking In Python,['nlp']
+How LinkedIn Is Using Data To Help You Find The Right Career,['industry']
+Deep Neural Network Learns Language From Wikipedia,['nlp']
+Natural Language Processing In The Kitchen,['nlp']
+The Field Guide To Data Science,['guide']
+Advanced Design Patterns In Python,"['python', 'designed patterns']"
+How Machine Learning Can Transform Online Dating: Kang Zhao Interview,['interview']
+Playing Atari With Deep Reinforcement Learning,['reinforcement learning']
+Data Science Year In Review,"['data science', 'review']"
+Why Is Machine Learning The Most Popular Course At Stanford?,"['machine learning', 'question']"
+K-means Clustering 86 Single Malt Scotch Whiskies,['algorithm']
+The Brain’s Visual Data-Compression Algorithm,['algorithm']
+Geoff Hinton - Recent Developments in Deep Learning,['deep learning']
+Do Deep Nets Really Need to be Deep?,['deep learning']
+Data Science 101: Data Analysis MOOC Post-Mortem,['data science']
+How Do I Become A Data Scientist?,"['data science', 'question']"
+Six Reasons Why I Recommend Scikit-Learn,['libraries']
+ConvNetJS: Deep Learning In Your Browser,['deep learning']
+How I Made $500k With Machine Learning And High Frequency Trading,['trading']
+"FrankenImage: An Image-Based, Non-Photorealistic Renderer",['computer vision']
+Six Novel Machine Learning Applications,"['applications', 'machine learning']"
+How To Identify Outliers In Your Data,"['data science', 'how-to']"
+A Simple Machine Learning Method To Detect Covariate Shift,"['data shift', 'mlops']"
+Data Science For Business: NYC Media Lab Interview With Foster Provost,"['data science', 'business', 'interview']"
+Using Deep Learning To Listen For Whales,['deep learning']
+Computer Science: The Learning Machines,['computer science']
+Predicting Hospital Readmissions: Laura Hamilton (Additive Analytics),"['healthcare', 'data science']"
+"Machine Learning To Process, Analyze Video Content","['computer vision', 'machine learning']"
+Understanding The Consumer Journey Through Location Data,['gis']
+Data Science in Python,"['data science', 'python']"
+Finding The K In K-Means Clustering,['algorithm']
+Create Real-Time Graphs With PubNub And D3.js,['data visualization']
+This Amazing Image Algorithm Learns to Spot Objects Without Human Help,['computer vision']
+How Search Engines Use Machine Learning for Pattern Detection,"['machine learning', 'application']"
+"Using Artificial Intelligence to detect Fraud, Waste & Abuse",['ai']
+Stanford Statistical Learning MOOC,"['statistics', 'course']"
+A List of Data Science and Machine Learning Resources,"['data science', 'resource']"
+Learning Curves in scikit learn,['libraries']
+What's New in ggplot-0.4?,['libraries']
+Using Data Mining to Predict the Winter Olympics Medal Counts in Sochi,['data mining']
+Deep Learning: Teaching Computers To Think Like People,['deep learning']
+Backtesting a Forecasting Strategy for the S&P500 in Python with Pandas,"['forecasting', 'python']"
+The Role of Algorithms in Data Visualization,['algorithm']
+Bayesian Bandits - Optimizing Click Throughs with Statistics,"['bayesian', 'statistics', 'bandits']"
+Powering Interactive Data Analysis at Pinterest by Amazon Redshift,['industry']
+An Idiot Learns Bayesian Analysis: Part 1,['bayesian']
+5 important Machine Learning Papers,['papers']
+From Lab to Factory: Building a Production Machine Learning Infrastructure,['mlops']
+"Ten Years of NFL Plays Analyzed, Visualized, Quizzified",['use case']
+Image Processing with scikit-image,['computer vision']
+Academic Torrents: Making 1.67TB of Research Data available.,['dataset']
+6 Video Tutorials And Playlists on Machine Learning,['tutorials']
+Introduction to Python for Statistical Learning,"['python', 'statistics']"
+Data Science Use Cases,['use case']
+Machine Learning & Energy Efficiency: Optimum Energy/Data Guild Interview,['interview']
+Distributed Neural Networks with GPUs in the AWS Cloud,['cloud']
+Why Deep Learning Will Go the Way of Symbolic AI,"['deep learning', 'ai']"
+Artificial Intelligence: Examining the interface between Brain and Machine,['ai']
+"Sr. Analyst, Data Scientist, Comcast, Philadelphia PA","['deep learning', 'python']"
+Flappy Bird hack using Reinforcement Learning,['reinforcement learning']
+Why Google Is Investing In Deep Learning,['deep learning']
+The Billion Dollar AI Castle in the Air,['ai']
+"How to Speed up a Python Program 114,000 times",['python']
+How does LinkedIn's Recommendation System work?,['recommendation system']
+Spectral Clustering: Intuition and Implementation,['clustering']
+Scalability of Statistical Procedures: Why the p-value bashers just don't get it,['statistics']
+Conditional Probability: A Visual Exploration,['probability']
+Machine Learning and Probabilistic Graphical Models Course,"['probability', 'machine learning']"
+14 Ebooks For Learning AI And Robotics,"['robotics', 'ai']"
+Training Deep Learning Models in a Browser: Andrej Karpathy Interview,"['deep learning', 'iot']"
+How to Interview a Data Scientist,['interview']
+10 Surprising Machine Learning Applications,"['applications', 'machine learning']"
+"Ten Most Popular MOOCs starting in March, 2014",['courses']
+On the Shelf: Data Science Books,['books']
+Python Tools for Machine Learning,"['tools', 'python']"
+Learning Data Science in Total Immersion,['data science']
+Machine Learning in 10 Pictures,['machine learning']
+Using CART for Stock Market Forecasting,['forecasting']
+Why Apache Spark is a Crossover Hit for Data Scientists,['big data']
+"After building a powerful Recommendation System for Netflix, this Guy wants to help you find your next favorite book",['recommendation system']
+Bayesian Bandits testing for mobile apps,"['bandits', 'bayesian']"
+Rendering scikit Decision Trees in D3.js,"['algorithm', 'data visualization']"
+Top 22 Free Online Courses In Computer Science And Artificial Intelligence!,['courses']
+Classification with scikit-learn,['libraries']
+Ad Click Prediction: A View from the Trenches,['predictive analytics']
+"""How do I become a Data Scientist?""",['how-to']
+Some Useful Machine Learning Libraries.,['libraries']
+120 Data Science Interview Questions for $10,['interviews']
+Real-time NLP with Twitter and Yhat,['real-time']
+How Deep Learning Analytics Mimic the Mind,['deep learning']
+Gridspace uses NLP to Make your Meetings more Efficient,['nlp']
+"The Importance of Location in Real Estate, Weather, and Machine Learning",['gis']
+Neural Networks Class by Hugo Larochelle,['neural network']
+"Interview with Daniel Tunkelang, Head of Query Understanding at LinkedIn",['interview']
+"Data Scientists Salary Survey: US, Canada, Australia lead",['salary']
+Predicting Customer Churn with scikit-learn,"['business', 'library']"
+Learning Deep Face Representation,"['computer vision', 'deep learning']"
+Regularized Linear Regression with scikit-learn,['libraries']
+Differential Equations in Data Science,['data science']
+"Swish Analytics: Algorithmic Sports, Predictions & Betting Recommendations",['recommendation system']
+Statistics Done Wrong: The Woefully Complete Guide,['statistics']
+Introduction to Artificial Neural Networks Part 2 - Learning,['neural network']
+An Introduction to Deep Learning: From Perceptrons to Deep Networks,"['neural network', 'deep learning']"
+"Neural Networks, Manifolds, and Topology",['neural network']
+Python Multi-armed Bandits (and Beer!),"['python', 'bandits']"
+How does NASA use Machine Learning?,['use case']
+Music Discovery at Spotify,['use case']
+,['recommendation system']
+Intuitive Bayes Introductory Course,['bayesian']
+"How a Kalman filter works, in pictures",['algorithm']
+Modern Experimentation Platforms,['experimentation']
+Book Draft: Distributional Reinforcement Learning,['reinforcement learning']
+How to Setup TensorFlow on Apple M1 Pro and M1 Max (works for M1 too),['hardware']
+The Mathematics of Linear Distortion,['mathematics']
+Algorithmic Trading Models - Machine Learning,['machine learning']
+On Bayesian Geometry: Geometric interpretation of probability distributions,['bayesian']
+Top YouTube Channels that you must follow if you're into Data Science  : A Twitter threadð»,['machine learning']
+,['algorithm']
+The Statistical Complexity of Interactive Decision Making,"['decision making', 'statistics']"
+How Graph Neural Networks (GNN) work: introduction to graph convolutions from scratch,"['graph', 'neural network']"
+Chatbots: Still Dumb After All These Years,"['nlp', 'deep learning']"
+Real-World Machine Learning Research To Production [Video],"['application', 'machine learning']"
+Neural Network From Scratch,"['neural network', 'deep learning']"
+Bayesian Statistics Overview and your first Bayesian Linear Regression Model,"['bayesian', 'machine learning']"
+Effective Testing for Machine Learning (Part II),"['machine learning', 'mlops']"
+Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI,['deep learning']
+Oxford ML & Deep Learning course by Nando de Freitas,['course']
+XManager: A framework for managing machine learning experiments,['mlops']
+Automated Reinforcement Learning (AutoRL): A Survey and Open Problems,['reinforcement learning']
+Why Google Treats SQL Like Code and You Should Too,['sql']
+How vectorization speeds up your Python code,['improvement']
+How to master Streamlit for data science,"['application', 'data science']"
+Write Better Scientific Papers by Understanding Your Readers' Thoughts,['career']
+What Is Causal Inference? An Introduction for Data Scientists,"['data science', 'statistics']"
+,"['algorithms', 'machine learning']"
+ML and NLP Research Highlights of 2021,"['nlp', 'machine learning']"
+How do you document predictive models just in case they are audited?,['best practices']
+Two reasons Kubernetes is so complex,['mlops']
+How to navigate ML research literature,['research']
+How to run effective ML research,['research']
+Beginner mistakes to avoid in building Data Pipeline,['data engineering']
+Topology and Computability,['mathematics']
+OpenAI GPT-3 Text Embeddings - Really a new state-of-the-art in dense text embeddings?,['nlp']
+Introduction to Probability for Data Science,['probability']
+Building Machine Learning Infrastructure at Netflix and beyond,['infrastructure']
+Data Distribution Shifts and Monitoring,['mlops']
+The art of solving problems with Monte Carlo simulations,['simulation']
+Causal Machine Learning and Business Decision Making,['decision making']
+Algorithms for Decision Making,['decision making']
+Textless NLP: Generating expressive speech from raw audio,['nlp']
+Red Flags to Look Out for When Joining a Data Team,['career']
+EvoJAX: Hardware-Accelerated Neuroevolution,['hardware']
+How to Think Less About Data Visualization,['data visualization']
+Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits,['libraries']
+Graph Theory and Linear Algebra,['graph']
+"Introducing TorchRec, a library for modern production recommendation systems",['recommendation system']
+A Data-Driven Approach to Understanding How the Brain Works,['tutorial']
+Introduction to Continual Learning,['sql']
+How do Vision Transformers work? â Paper explained | multi-head self-attention & convolutions [YouTube Video],['mlops']
+MLOps Is a Mess But That's to be Expected,['mlops']
+NN Template - Generic template to bootstrap your PyTorch project,['neural network']
+A Concrete Introduction to Probability (using Python),['probability']
+"CS 329S: Machine Learning Systems Design [Stanford, Winter 2022]","['machine learning', 'system design']"
+Explainable Machine Learning in NLP: Methods and Evaluation [PDF],['nlp']
+What Good Data Product Managers Do – And Why You Probably Need One,['product']
+How to Build Effective (and Useful) Dashboards,['dashboard']
+The Bayesian Learning Rule,['bayesian']
+"How a Kalman filter works, in pictures",['algorithm']
+Auto-generated Summaries in Google Docs,['nlp']
+,['algorithm']
+Graph machine learning with missing node features,['graph']
+How LinkedIn Personalized Performance for Millions of Members using Tensorflow.js,['application']
+Exploring Plain Vision Transformer Backbones for Object Detection,['computer vision']
+Deep Neural Networks and Tabular Data: A Survey,['deep learning']
+Large-Scale Matrix Factorization on TPUs,['hardware']
+Teaching visualization,['data visualization']
+Understand Machine Learning Through 7 Software Design Patterns,['design patterns']
+Real World Recommendation System - Part 1,['recommendation system']
+Best Books and Videos on Sales,['books']
+Books with high signal to noise ratio from Hacker News,['books']
+How to Read Math,['mathematics']
+Computational Intelligence,['theory']
+Best Paper Awards in Computer Science since 1996,['papers']
+Deep Learning Summer School 2015 at Montreal,"['deep learning', 'course']"
+Resource on Cell Biology and Genetic,['resource']
+College Math Notes,"['mathematics', 'notes']"
+How to read scientific article,['how-to']
+Building Recommender System in Python Using Stochastic Gradient Descent,"['recommendation system', 'python']"
+UX Design Deliverables,['ux']
+Example: FE Development Portfolio,['web development']
+How to use data to monitor the job market,"['application', 'data science']"
+100 Days of Swift,['mobile development']
+Guide to SQL Thinking,"['sql', 'guide']"
+Android Tutorials,"['mobile development', 'tutorial']"
+Good math visualizations,"['mathematics', 'visualization']"
+Definitive Guide to Form Based Web Authentication,['web development']
+Google's Technical Skills Checklist,['career']
+How to wireframe,['ux']
+GAMF Interview Questions for UX Researchers,['interview']
+Who is Hiring,['hiring']
+Recommendation Engine from Spotify,"['recommendation system', 'python']"
+How to learn advanced math,"['mathematics', 'how-to']"
+Text Feature Extraction,['nlp']
+How web fonts work?,['web development']
+An overview of gradient descent optimization algorithms,"['machine learning', 'algorithms']"
+PCA Step by Step in Python,"['algorithms', 'python']"
+Woodworking for Beginners,['guide']
+Computer Science Bottom Up,"['computer science', 'course']"
+Statistical Concepts Visualization,"['statistics', 'visualization']"
+Compendium of Conjugate Priors,['mathematics']
+Practical Deep Learning,['deep learning']
+Gaussian correlation inequality (GCI),['mathematics']
+Gradient Descents,"['mathematics', 'machine learning']"
+Arxiv Sanity,['papers']
+L1 vs L2 Regularization,['machine learning']
+Batch Norm Backpropagation,"['neural network', 'deep learning']"
+Build a Modern Computer from First Principles: Nand to Tetris Part II ,['computer science']
+When not to use deep learning,['deep learning']
+Penetration Testing for Web Apps,['web development']
+Documenting Python Code,"['python', 'best practice']"
+Every byte of a TLS connection explained and reproduced,['computer science']
+Computer Networking,['computer science']
+Art & Spirit in Mathematics: The Lessons of Japanese Temple Geometry,['mathematics']
+Kalman Filter Explained,['algorithm']
+Understanding Gaussian Process,['mathematics']
+Notes on Large Scale Adversarial Learning,['machine learning']
+Math in Machine Learning,"['machine learning', 'mathematics']"
+How to build a good software,['software']
+Deep Learning Illustrated: Building Natural Language Processing Models,['deep learning']
+Progressive Face Super Resolution (2019 SOTA),['computer vision']
+Building a machine reading comprehension system using the latest advances in deep learning for NLP,"['nlp', 'machine learning']"
+Open Source Software for Machine Learning,['machine learning']
+Finding the Right Color Palettes for Data Visualizations,['data visualization']
+In-Depth Machine Learning Tutorials,"['machine learning', 'tutorial']"
+Gauss-Markov Theorem explanation,['mathematics']
+A Beginner's Guide to Convolutional Neural Networks,"['computer vision', 'neural network']"
+Problems in undergrad lectures in differential equations ,['mathematics']
+Deep Learning and Regression by Andrew Ng,"['deep learning', 'course']"
+Books for Physics and Math,"['mathematics', 'books']"
+Fourier Transform and Applications from Stanford,"['mathematics', 'course']"
+Roadmap for reading deep learning papers,"['deep learning', 'guide']"
+How Browser Works,['computer science']
+Primer on Signal Processing,['computer science']
+Algorithms,['algorithm']
+Python Interpreter Written in Python,"['python', 'computer science']"
+CPython Internals,"['python', 'computer science']"
+PostgreSQL vs MS SQL ,['sql']
+Computer Speed in Python,['python']
+LSTM explanation,"['deep learning', 'neural network']"
+What maths are critical to pursuing ML/AI?,"['ai', 'machine learning', 'mathematics']"
+Full text search with Django and Postgres,"['machine learning', 'application']"
+How Shazam Works,['application']
+How to visualize a decision tree,"['algorithm', 'data science', 'machine learning', 'visualization']"
+Understanding Convolution in Deep Learning,"['neural network', 'deep learning']"
+Model-based Machine Learning Book,"['machine learning', 'book']"
+Graphical Introduction to Dynamic Programming,['programming']
+ML Whiz,['machine learning']
+Illustrated GPT2,"['neural network', 'deep learning']"
+Kubernetes Academy,"['computer science', 'mlops']"
+How to write good documentation,"['career', 'how-to']"
+Learn Docker,['mlops']
+State of ML Frameworks 2019,['machine learning']
+Artificial Intelligence Textbook from a UBC Prof,"['ai', 'book']"
+"Statistics, Data Visualization and Data Science","['statistics', 'data visualization', 'data science']"
+Internship Guide in the Bay Area,"['career', 'guide']"
+Machine Learning Algorithm,"['machine learning', 'algorithms']"
+Expert Curated Guide to CS Research,"['research', 'computer science']"
+K-Nearest Neighbours (KNN) from scratch,['algorithm']
+RNN-LSTM in Tensor Flow,"['deep learning', 'neural network']"
+Mathematical Proof Textbook,"['mathematics', 'books']"
+Deep Reinforcement Learning ,['deep learning']
+RL,['reinforcement learning']
+How to approach machine learning problems,"['machine learning', 'how-to']"
+On the cruelty of really teaching computing science,"['computer science', 'rant']"
+Cognitive Science Readings for Designers,['papers']
+Wireframe best practices,['web development']
+What great listeners do,['career']
+Facebook Computer Vision,['computer science']
+How Convolutional Neural Networks Work,"['machine learning', 'algorithms']"
+How to use t-SNE,"['machine learning', 'algorithms']"
+TF-IDF and Cosine Similarity,"['machine learning', 'algorithms']"
+Philosophy of AI,['ai']
+Geometric Algebra,['mathematics']
+Problem Solving with Algorithms and Data Structures using Python,"['python', 'computer science', 'algorithms']"
+Learn SQL Index,"['sql', 'guide']"
+Visualizing PCA,"['visualization', 'algorithms']"
+Short guide to Getting Things Done (GTD),['career']
+How Git works internally,['computer science']
+How to Read 100s of Millions of Records per Second from a Single Disk,['computer science']
+Complete Guide to Deep Work,"['career', 'guide']"
+Building a live streaming app with Nodejs and React,['web development']
+Trigonometry Basics,['mathematics']
+Deep Reinforcement Learning ,['deep learning']
+Career Advice from Mathematician Terry Tao,['mathematics']
+How Relational Databases Work,['computer science']
+A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings,['nlp']
+Convolution Deep Learning Explained,"['deep learning', 'neural network']"
+RL talks from Machine Learning Summer School 2015 at UA,"['reinforcement learning', 'course']"
+Math Visually Explained,['mathematics']
+"Best Paper Awards in CS, ML, and AI","['ai', 'machine learning', 'computer science', 'paper']"
+What is spectral analysis,['mathematics']
+David Silver's Lecture to Reinforcement Learning,"['reinforcement learning', 'course']"
+Andrej Karpathy's post on Reinforcement Learning,"['reinforcement learning', 'course']"
+Text Classification in Machine Learning,"['tutorial', 'machine learning', 'nlp']"
+Fast AI Machine Learning Course,"['machine learning', 'course']"
+CSC2523 Deep Learning in Computer Vision from UofT,"['computer vision', 'neural network']"
+Word2Vec Skip The Gram Tutorial,"['nlp', 'machine learning']"
+150 successful machine learning models: 6 lessons learned at Booking.com,"['machine learning', 'application']"
+Introduction to Adversarial Machine Learning,['machine learning']
+The Craft of Writing Effectively,['career']
+Use Dalle 2 to generate logo,"['deep learning', 'application']"

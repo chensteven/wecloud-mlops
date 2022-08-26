@@ -8,6 +8,8 @@ In this project, we will train and deploy a PyTorch machine learning model to pr
 
 This tutorial aims to prepare Data Scientists or Machine Learning Engineers for ML Model deployment.
 
+![MLOps Workflow](resources/mlops_workflow.png)
+
 Topics cover in this article:
 
 - Text data collection and preprocessing

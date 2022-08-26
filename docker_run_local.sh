@@ -12,11 +12,6 @@ export LOG_FOLDER=/var/log/ml-project1
 echo ${IMAGE}
 #echo ${IMAGE}:${TAG}
 
-# Create log folder if not exists
-# if [ ! -d ${LOG_FOLDER} ]; then
-#      mkdir ${LOG_FOLDER}
-# fi
-
 # Add your authentication command for the docker image registry here
 
 # force pull and update the image, use this in remote host only
@@ -35,5 +30,5 @@ docker run -d \
   -e "TIMEOUT=${TIMEOUT}" \
   -e "PYTHON_ENV=${PYTHON_ENV}" \
   --name="${JOB_NAME}" \
-   ${IMAGE}
+  ${IMAGE}
   # ${IMAGE}:${TAG}

@@ -2,7 +2,8 @@
 import pytorch_lightning as pl
 import torch
 import torch.nn as nn
-from transformers import BertModel, BertTokenizer
+from transformers import BertModel
+from .config import CONFIG
 
 LABEL_COLUMNS = ['ai', 'algorithm', 'algorithms', 'application', 'applications',
       'bandits', 'bayesian', 'best practice', 'best practices', 'big data',
@@ -30,7 +31,7 @@ class Model(pl.LightningModule):
 
   def __init__(self, n_classes: int=len(LABEL_COLUMNS)):
     super().__init__()
-    self.bert = BertModel.from_pretrained(BERT_MODEL_NAME, return_dict=True)
+    self.bert = BertModel.from_pretrained(CONFIG['BERT_PRETRAINED_PATH'], return_dict=True)
     self.classifier = nn.Linear(self.bert.config.hidden_size, n_classes)
     self.criterion = nn.BCELoss()
 

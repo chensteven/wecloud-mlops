@@ -72,3 +72,5 @@ References
 - https://medium.com/@mingc.me/deploying-pytorch-model-to-production-with-fastapi-in-cuda-supported-docker-c161cca68bb8
 - https://github.com/kunal-bhadra/Multilabel-Text-Classification-BERT/blob/master/MultiLabel_Text_Classification.ipynb
 - https://fastapi.tiangolo.com/deployment/docker/
+- https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-testing/
+- https://ml-ops.org/content/mlops-principles

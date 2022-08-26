@@ -10,15 +10,14 @@ This tutorial aims to prepare Data Scientists or Machine Learning Engineers for 
 
 ![MLOps Workflow](resources/mlops_workflow.png)
 
-Topics cover in this article:
+Topics cover in this project:
 
-- Text data collection and preprocessing
-- PyTorch training
-- FastAPI & pydantic
-- uvicorn & gunicorn
-- Error Handling and Logging
-- Writing pytest test cases
-- Building and deploying Docker Image locally and remotely with CUDA
+- Text data collection and preprocessing (Data Ingestion)
+- PyTorch Lightning (Model Training / Testing / Packaging)
+- FastAPI & pydantic (Application API / Testing Code)
+- uvicorn & gunicorn (Web Server)
+- Writing PyTest test cases (Application and Unit Testing)
+- Building and deploying Docker Image locally and remotely with CUDA (Production Deployment)
 
 Folder Structure
 ```
@@ -66,11 +65,8 @@ Folder Structure
 - *utils/* consists of various Python and Bash scripts for data creation and scraping and endpoint setup and testing
 - *training/* contains the example PyTorch model for this project
 
-To do:
-- documentation
-- upload lectures to the right place
-
 ### Additional References
+This project is heavily inspired by the following resources:
 - https://medium.com/@mingc.me/deploying-pytorch-model-to-production-with-fastapi-in-cuda-supported-docker-c161cca68bb8
 - https://github.com/kunal-bhadra/Multilabel-Text-Classification-BERT/blob/master/MultiLabel_Text_Classification.ipynb
 - https://fastapi.tiangolo.com/deployment/docker/

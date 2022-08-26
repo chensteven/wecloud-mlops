@@ -66,7 +66,7 @@ Folder Structure
 - *training/* contains the example PyTorch model for this project
 
 ### Additional References
-This project is heavily inspired by the following resources:
+This project is inspired by the following resources:
 - https://medium.com/@mingc.me/deploying-pytorch-model-to-production-with-fastapi-in-cuda-supported-docker-c161cca68bb8
 - https://github.com/kunal-bhadra/Multilabel-Text-Classification-BERT/blob/master/MultiLabel_Text_Classification.ipynb
 - https://fastapi.tiangolo.com/deployment/docker/

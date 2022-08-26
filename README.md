@@ -10,88 +10,59 @@ This tutorial aims to prepare Data Scientists or Machine Learning Engineers for 
 
 Topics cover in this article:
 
+- Text data collection and preprocessing
 - PyTorch training
 - FastAPI & pydantic
 - uvicorn & gunicorn
 - Error Handling and Logging
 - Writing pytest test cases
-- Building and deploying Docker Image with CUDA
+- Building and deploying Docker Image locally and remotely with CUDA
 
 Folder Structure
 ```
-.
-├── Dockerfile
+|── Dockerfile
 ├── README.md
-├── __pycache__
-│   └── serve.cpython-37.pyc
-├── checkpoints
-│   └── best-checkpoint.ckpt
-├── data
-│   ├── bn_data.csv
-│   ├── dataset.csv
-│   ├── dsweekly_data.csv
-│   ├── dsweekly_data.json
-│   ├── dump
-│   │   └── benjel_news
-│   │       ├── comments.bson
-│   │       ├── comments.metadata.json
-│   │       ├── notifications.bson
-│   │       ├── notifications.metadata.json
-│   │       ├── stories.bson
-│   │       ├── stories.json
-│   │       ├── stories.metadata.json
-│   │       ├── users.bson
-│   │       └── users.metadata.json
-│   ├── hn_data.csv
-│   └── hn_data.json
-├── get_data
-│   └── scraper.py
-├── lightning_logs
-│   ├── version_0
-│   │   ├── events.out.tfevents.1661395807.CAN-JLC-KDML7H.97858.0
-│   │   └── hparams.yaml
-│   ├── version_1
-│   │   ├── events.out.tfevents.1661396011.CAN-JLC-KDML7H.97858.1
-│   │   └── hparams.yaml
-│   ├── version_2
-│   │   ├── events.out.tfevents.1661396235.CAN-JLC-KDML7H.97858.2
-│   │   └── hparams.yaml
-│   └── version_3
-│       ├── events.out.tfevents.1661396495.CAN-JLC-KDML7H.97858.3
-│       └── hparams.yaml
-├── model
-│   └── model_1.pt
-├── preprocess
-│   └── create_dataset.ipynb
-├── requirements.txt
-├── scrape
+├── app
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-37.pyc
-│   │   └── scrape_methods.cpython-37.pyc
-│   └── scrape_methods.py
-├── scripts
-│   ├── test_api.sh
-│   └── turn_on_endpoint.sh
-├── serve
-│   ├── __pycache__
-│   │   └── serve.cpython-37.pyc
-│   └── serve.py
-├── test.py
-└── training
-    ├── checkpoints
-    │   └── best-checkpoint.ckpt
-    ├── lightning_logs
-    │   └── version_0
-    │       ├── events.out.tfevents.1661453313.CAN-JLC-KDML7H.25324.0
-    │       └── hparams.yaml
-    └── training.ipynb
+│   ├── config.py
+│   ├── log.ini
+│   ├── model.py
+│   ├── predict.py
+│   ├── schema.py
+│   ├── serve.py
+│   └── tests
+│       ├── __init__.py
+│       ├── __pycache__
+│       └── test_api.py
+├── data
+│   ├── dump
+│   ├── post_categories
+│   │   └── dataset.csv
+│   └── scraped_data
+├── docker_build.sh
+├── docker_run_local.sh
+├── model
+│   ├── bert_pretrained
+│   ├── model_1.pt
+│   └── tokenizer
+├── requirements.txt
+├── start.sh
+├── training
+│   ├── checkpoints
+│   ├── lightning_logs
+│   └── training.ipynb
+└── utils
+    ├── create_post_categories_dataset.ipynb
+    ├── scrape
+    ├── scraper.py
+    └── scripts
+        ├── test_api.sh
+        └── turn_on_endpoint.sh
 ```
-- serve/ hosts the FastAPI and inference Python script
-- model/ consists of the PyTorch model parameters and any preprocessing module joblib
-- preprocess/ consists of data preprocessing Python scripts
-- training/ contains the example PyTorch model for this project
-- scripts/ contains Bash scripts to turn on endpoints and test api locally
+- *app/* hosts the FastAPI and inference Python script
+- *model/* consists of the PyTorch model, tokenizer and pretrains
+- *utils/* consists of various Python and Bash scripts for data creation and scraping and endpoint setup and testing
+- *training/* contains the example PyTorch model for this project
 
 To do:
 - documentation

@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t myimage2 .
+docker build -t myimage2_news .

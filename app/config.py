@@ -3,9 +3,9 @@ import torch
 
 # Config that serves all environment
 GLOBAL_CONFIG = {
-    "MODEL_PATH": "model/model_1.pt",
+    "MODEL_PATH": "model/model_news.pt",
     "BERT_PRETRAINED_PATH": "model/bert_pretrained",
-    "TOKENIZER_PATH": "model/tokenizer",
+    "TOKENIZER_PATH": "model/vocab_obj.pth",
     "USE_CUDE_IF_AVAILABLE": True,
     "ROUND_DIGIT": 6
 }

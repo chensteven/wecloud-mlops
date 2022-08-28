@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export JOB_NAME="ml-project1"
-export IMAGE="myimage2"
+export JOB_NAME="mlops_project_novice1"
+export IMAGE="myimage2_news"
 # export TAG="latest"
 export PYTHON_ENV="development"
 export API_PORT=80

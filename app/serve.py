@@ -8,7 +8,7 @@ from fastapi.logger import logger
 from transformers import BertTokenizer
 
 from .config import CONFIG
-from .model import Model
+from .model import Model, TextClassificationModel
 from .predict import predict
 from .schema import *
 
@@ -24,10 +24,11 @@ async def startup_event():
     logger.info('PyTorch using device: {}'.format(CONFIG['DEVICE']))
 
     # Initialize tokenizer
-    tokenizer = BertTokenizer.from_pretrained(CONFIG['TOKENIZER_PATH'])
+    #tokenizer = BertTokenizer.from_pretrained(CONFIG['TOKENIZER_PATH'])
+    tokenizer = torch.load(CONFIG['TOKENIZER_PATH'])
 
     # Initialize the pytorch model
-    model = Model()
+    model = TextClassificationModel()
     model.load_state_dict(torch.load(
         CONFIG['MODEL_PATH'], map_location=torch.device(CONFIG['DEVICE'])))
     model.eval()
@@ -61,7 +62,7 @@ def do_predict(request: Request, body: InferenceInput):
     X = body.sentence
 
     # run model inference
-    y = predict(app.package, [X])
+    y = predict(app.package, X)
     
     results = {
       "pred": y

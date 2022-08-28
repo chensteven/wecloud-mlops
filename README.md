@@ -64,6 +64,16 @@ Folder Structure
 - *utils/* consists of various Python and Bash scripts for data creation and scraping and endpoint setup and testing
 - *training/* contains the example PyTorch model for this project
 
+### Usage
+1. Build Docker Image
+```bash
+bash docker_build.sh
+```
+2. Run Docker Image locally
+```bash
+bash docker_run_local.sh
+```
+
 ### Additional References
 This project is inspired by the following resources:
 - https://medium.com/@mingc.me/deploying-pytorch-model-to-production-with-fastapi-in-cuda-supported-docker-c161cca68bb8

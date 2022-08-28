@@ -1,6 +1,5 @@
-# WecloudData
-## MLOps Training
-### End-to-end model training and deployment using PyTorch Lightning, Fast API and Docker
+# MLOps Program
+### Project: End-to-end model training and deployment using PyTorch Lightning, Fast API and Docker
 #### Multi-label text classification
 ##### Prepared by WecloudData
 

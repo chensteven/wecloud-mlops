@@ -5,10 +5,9 @@ import torch
 import uvicorn
 from fastapi import FastAPI, Request
 from fastapi.logger import logger
-from transformers import BertTokenizer
 
 from .config import CONFIG
-from .model import Model
+from .model import TextClassificationModel
 from .predict import predict
 from .schema import *
 
@@ -24,17 +23,17 @@ async def startup_event():
     logger.info('PyTorch using device: {}'.format(CONFIG['DEVICE']))
 
     # Initialize tokenizer
-    tokenizer = BertTokenizer.from_pretrained(CONFIG['TOKENIZER_PATH'])
+    vocab = torch.load(CONFIG['VOCAB_PATH'])
 
     # Initialize the pytorch model
-    model = Model()
+    model = TextClassificationModel()
     model.load_state_dict(torch.load(
         CONFIG['MODEL_PATH'], map_location=torch.device(CONFIG['DEVICE'])))
     model.eval()
 
     # add model and other preprocess tools too app state
     app.package = {
-        "tokenizer": tokenizer,
+        "vocab": vocab,
         "model": model
     }
 
@@ -61,7 +60,7 @@ def do_predict(request: Request, body: InferenceInput):
     X = body.sentence
 
     # run model inference
-    y = predict(app.package, [X])
+    y = predict(app.package, X)
     
     results = {
       "pred": y

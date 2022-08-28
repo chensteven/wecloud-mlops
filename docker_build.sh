@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t mlops_exercise .
+docker build -t myimage2_news .

@@ -16,7 +16,7 @@ class InferenceResult(BaseModel):
     # setosa: float = Field(..., example=0.987526, title='Probablity for class setosa')
     # versicolor: float = Field(..., example=0.000015, title='Probablity for class versicolor')
     # virginica: float = Field(..., example=0.012459, title='Probablity for class virginica')
-    pred: str = Field(..., example='category', title='Predicted class name')
+    pred: List = Field(..., example='category', title='Predicted class with highest probablity')
 
 
 class InferenceResponse(BaseModel):
